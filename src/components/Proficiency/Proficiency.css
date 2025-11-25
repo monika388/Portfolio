@@ -1,0 +1,63 @@
+
+
+/* Section wrapper */
+.proficiency-section {
+  padding: 60px 5vw;
+  scroll-margin-top: 80px;
+  display: flex;
+  justify-content: center;
+  max-height: 100vh;
+  margin-top: 8rem;
+}
+
+.proficiency-box {
+  background-color:aliceblue;
+  padding: 80px ;
+  max-width: 1000px;
+  width: 100%;
+  border-radius: 35px 0px 35px 0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align:left;
+  min-height: auto ;
+}
+
+.proficiency-box:hover{
+  transform: scale(1.05);
+box-shadow: 0 12px 32px rgba(0, 119, 182, 0.2);
+}
+
+.proficiency-box h2 {
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+}
+
+/* Each skill bar */
+.proficiency-item {
+  margin-bottom: 1.5rem;
+}
+
+.proficiency-item label {
+  display: block;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  color: #444;
+}
+
+.bar {
+  background-color: #f0f0f0;
+  height: 14px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.fill {
+  height: 100%;
+  background-color: #373535; /* soft purple */
+  border-radius: 10px;
+  transition: width 0.6s ease;
+  position: relative;
+}
+

@@ -5,9 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* color:cornflowerblue; */
+  /* background-image: radial-gradient( circle farthest-corner at 50% 20%,  lavenderblush 0%, rgb(240, 197, 203) 0%, rgba(254,246,233,1) 100.1% ); */
+  background-image: radial-gradient( circle farthest-corner at 50.2% 50.7%, rgba(254,246,233,1) 0%, rgba(241,168,179,1) 90% );
+  /* background-image: linear-gradient( 109.6deg,  rgba(177,173,219,1) 11.2%, powderblue 91.1% ); */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+    
 }
