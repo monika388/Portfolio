@@ -21,11 +21,14 @@ const Education = () => {
               />
               <h4>Sardar Patel University</h4>
             </div>
-            <p className="degree">Bachelor of Computer Science</p>
-            <p className="duration">June 2023 – Present</p>
-            <p>Currently pursuing a comprehensive curriculum in computer science.</p>
+            <p className="degree">Bachelor of Computer Applications (BCA)</p>
+            <p className="duration">June 2023 – June-2026</p>
+            <p>
+  Currently pursuing BCA with focus on software development,
+  frontend development, web technologies, and problem solving.
+</p>
             <ul>
-              <li>Completed 5 semesters with consistent academic performance</li>
+              <li>Completed 6 semesters with consistent academic performance</li>
               <li>Focused on software development, data structures, and web technologies</li>
             </ul>
           </div>
@@ -44,7 +47,7 @@ const Education = () => {
               <h4>TechElecon</h4>
             </div>
             <p className="degree">Frontend Developer & UI Design Intern</p>
-            <p className="duration">6 November – Present</p>
+            <p className="duration">6 November – 6 December</p>
             <p>Contributing to real-world projects in frontend development and UI design.</p>
             <ul>
               <li>Building responsive interfaces using React, HTML, CSS, and JavaScript</li>

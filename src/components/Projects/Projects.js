@@ -33,7 +33,7 @@ function Projects() {
                 rel="noopener noreferrer"
                 className="project-link"
               >
-                <button type="button" class="btn btn-dark">View Project</button>
+                <button type="button" className="btn btn-dark">View Project</button>
 
 
                 

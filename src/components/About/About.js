@@ -12,11 +12,10 @@ function About() {
           calming, responsive layouts with a personal touch.
         </p>
         <p>
-          I'm currently pursuing a <strong>Bachelor of Computer Applications (BCA)</strong> at 
-          Shree P.M. Patel College of Computer Science and Technology, Anand, having completed five semesters. 
-          I'm also working as a <strong>Frontend Intern at TechElecon</strong>, where I contribute to real-world projects 
-          focused on scalable architecture and user-centered design.
-        </p>
+  I'm currently pursuing a <strong>Bachelor of Computer Applications (BCA)</strong> at 
+  Shree P.M. Patel College of Computer Science and Technology, Anand.
+  I have successfully completed six semesters and continue to strengthen my skills in frontend development, UI design, and modern web technologies.
+</p>
       </div>
 
       
